@@ -3,8 +3,7 @@ from __future__ import print_function
 # ZKistler test
 #####
 ###Github pls work 
-=======
-#team_name = 'Team 1'
+#team_name = 'Team 1' "Team Joker"
 ##### 
 #>>>>>>> master
 # Computer Science and Software Engineering
